@@ -1,9 +1,17 @@
-﻿namespace function;
-
-class Program
+﻿namespace function
 {
-    static void Main(string[] args)
+
+    internal class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            program.Run();
+        }
+
+        internal void Run()
+        {
+            Console.WriteLine("Dit is nu de start van mijn programma");
+        }
     }
 }
