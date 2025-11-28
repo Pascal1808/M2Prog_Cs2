@@ -1,0 +1,15 @@
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.AssemblyInfoInputs.cache
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.AssemblyInfo.cs
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.csproj.CoreCompileInputs.cache
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.sourcelink.json
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\bin\Debug\net9.0\function.exe
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\bin\Debug\net9.0\function.deps.json
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\bin\Debug\net9.0\function.runtimeconfig.json
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\bin\Debug\net9.0\function.dll
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\bin\Debug\net9.0\function.pdb
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.dll
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\refint\function.dll
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.pdb
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\function.genruntimeconfig.cache
+C:\Users\pasca\OneDrive\MA\M2Prog_Cs2\M2PROG_CS2\function\obj\Debug\net9.0\ref\function.dll
